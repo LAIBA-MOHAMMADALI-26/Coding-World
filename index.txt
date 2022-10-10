@@ -1,0 +1,59 @@
+text allignment class
+1.text-start
+2.text-end
+3.text-center
+
+text-break
+
+TEXT transform
+1.text-uppercase
+2.text-capatilize
+
+FONT SIZE
+
+fs-1 2.5rem
+fs-2 2 rem
+fs-3 1.75 rem
+fs-4 1.5rem
+fs-5 1 rem
+
+FONT WEIGHT
+
+fw-bold
+fst-italic(font-style)
+fst-normal
+fw-normal----removes bold
+fw-lighter----font bilkul light
+
+UTILITY CLASSES
+m-classes for margin(0-5)
+p-classes for padding
+t-margin top(mt) and padding top(pt)
+b-margin bottom(mb) and padding bottom(pb)
+s-start(margin-left or padding left)
+e-end(margin-right or padding-right)
+x-classes that set both right and left
+y-classes that set both top and bottom
+...........................
+p-1 .25rem 4px
+p-2 .5rem  8px
+p-3  1rem  16px
+p-4  1.5rem 24px
+p-5  3rem   48px
+..........................
+BACKGROUND COLORS
+bg-primary
+bg-secondary
+bg-info
+bg-success
+bg-danger
+bg-light
+bg-dark
+----------------
+gradient-color matlb fade(light) ho jata hai color
+bg-gradient
+---------------
+making image responsive
+1)img-fluid
+2)img-thumbnail(borders to image)
+--------------------------------
